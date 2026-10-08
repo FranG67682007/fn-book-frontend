@@ -12,7 +12,7 @@ export default function Login() {
                 </div>
             </div>
             <div className="main-container-content">
-                <div className="logotype"><a href="/">FN Book</a></div>
+                <div className="logotype"><a href="/">ON!</a></div>
 
                 <div className="main-container-section">
                     <h1 style={{marginTop: 0}}>Login</h1>
